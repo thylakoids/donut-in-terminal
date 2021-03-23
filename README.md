@@ -26,7 +26,7 @@ https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md
   <h3 align="center">Donut in Terminal</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Rendering a donut using ASCII art
     <br />
     <a href="https://github.com/thylakoids/donut-in-terminal"><strong>Explore the docs »</strong></a>
     <br />
