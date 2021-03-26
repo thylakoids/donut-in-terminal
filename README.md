@@ -49,6 +49,7 @@ https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md
 * [About The Project](#about-the-project)
 * [Installation](#installation)
 * [Usage](#usage)
+* [TODO](#todo)
 * [Reference](#reference)
 
 <!-- vim-markdown-toc -->
@@ -74,10 +75,17 @@ gcc src/donut/donut.c -o donut.out
 ./donut.out
 ```
 
+## TODO
+
+- [ ] Fast Inverse Square Root - A Quake III Algorithm
+
+
+
+
 Reference
 ---------
 1. [Blog: optimizing-donut](https://www.a1k0n.net/2021/01/13/optimizing-donut.html)
-2. [Blog: donut-math]( https://www.a1k0n.net/2011/07/20/donut-math.html )
+2. [Blog: donut-math](https://www.a1k0n.net/2011/07/20/donut-math.html)
 3. [Youtube: C tutorial](https://www.youtube.com/watch?v=CPjZKsUYSXg&list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2&index=2)
 4. [Github: have-a-donut](https://github.com/kairess/have-a-donut)
 
